@@ -1,0 +1,16 @@
+html{
+    background-color: black;
+}
+div{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+#caps{
+    text-transform: uppercase;
+}
